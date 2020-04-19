@@ -10,3 +10,4 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Whoopee!", "Rhinos", 1299000, 42020, 42120);
 
 
+INSERT INTO users ()
