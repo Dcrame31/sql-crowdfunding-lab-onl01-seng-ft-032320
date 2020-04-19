@@ -32,6 +32,20 @@ INSERT INTO users (name, age) VALUES ("Bowser", 20);
 INSERT INTO users (name, age) VALUES ("Bunnies", 14);
 
 
-INSERT INTO pledges (amount, project_id, user_id) VALUES (2000, 3);
-INSERT INTO pledges (amount, project_id, user_id) VALUES (100, 1);
-INSERT INTO pledges (amount, project_id, user_id) VALUES (50, 8);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (2000, 1, 3);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (100, 4, 1);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (50, 8, 8);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (2893, 9, 6);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (920, 2, 10);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (28, 4, 9);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (282, 6, 19);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (921, 2, 17);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (3845, 3, 20);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (3930, 5, 3);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (2938, 10, 9);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (92, 9, 5);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (1384, 8,19);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (292, 7, 4);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (483, 6, 18);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (3845, 5, 1);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (38, 3, 3);
