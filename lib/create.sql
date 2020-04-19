@@ -11,10 +11,10 @@ CREATE TABLE users (
 id INTEGER PRIMARY KEY,
 name TEXT,
 age INTEGER
-)
+);
 
 CREATE TABLE pledges (
 amount INTEGER,
 project_id INTEGER,
 user_id INTEGER
-)
+);
