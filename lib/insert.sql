@@ -30,3 +30,6 @@ INSERT INTO users (name, age) VALUES ("Alex", 39);
 INSERT INTO users (name, age) VALUES ("Arlene", 39);
 INSERT INTO users (name, age) VALUES ("Bowser", 20);
 INSERT INTO users (name, age) VALUES ("Bunnies", 14);
+
+
+INSERT INTO pledges ()
