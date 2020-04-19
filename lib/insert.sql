@@ -11,3 +11,22 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 
 
 INSERT INTO users (name, age) VALUES ("Sarah", 37);
+INSERT INTO users (name, age) VALUES ("Dianne", 33);
+INSERT INTO users (name, age) VALUES ("Bella", 13);
+INSERT INTO users (name, age) VALUES ("Samba", 14);
+INSERT INTO users (name, age) VALUES ("Nikko", 11);
+INSERT INTO users (name, age) VALUES ("Bruce", 9);
+INSERT INTO users (name, age) VALUES ("Milo", 7);
+INSERT INTO users (name, age) VALUES ("Willow", 7);
+INSERT INTO users (name, age) VALUES ("Lee", 64);
+INSERT INTO users (name, age) VALUES ("Tony", 72);
+INSERT INTO users (name, age) VALUES ("Teri", 72);
+INSERT INTO users (name, age) VALUES ("Steve", 77);
+INSERT INTO users (name, age) VALUES ("Ray", 79);
+INSERT INTO users (name, age) VALUES ("Patrick", 32);
+INSERT INTO users (name, age) VALUES ("Ann", 33);
+INSERT INTO users (name, age) VALUES ("Norina", 68);
+INSERT INTO users (name, age) VALUES ("Alex", 39);
+INSERT INTO users (name, age) VALUES ("Arlene", 39);
+INSERT INTO users (name, age) VALUES ("Bowser", 20);
+INSERT INTO users (name, age) VALUES ("Bunnies", 14);
