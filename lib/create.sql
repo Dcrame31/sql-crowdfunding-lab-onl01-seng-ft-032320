@@ -1,0 +1,3 @@
+CREATE TABLE groceries (
+id INTEGER PRIMARY KEY,
+)
