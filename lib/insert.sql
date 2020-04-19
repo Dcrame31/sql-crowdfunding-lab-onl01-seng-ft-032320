@@ -32,4 +32,6 @@ INSERT INTO users (name, age) VALUES ("Bowser", 20);
 INSERT INTO users (name, age) VALUES ("Bunnies", 14);
 
 
-INSERT INTO pledges ()
+INSERT INTO pledges (amount, project_id, user_id) VALUES (2000, 3);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (100, 1);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (50, 8);
